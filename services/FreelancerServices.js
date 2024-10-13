@@ -65,9 +65,14 @@ async function findFreelancersByCareer(carrera) {
     if (typeof carrera !== 'string') {
         throw new Error("La carrera debe ser una cadena.");
     }
-    
+
     const freelancers = await freelancerRepository.getFreelancers();
-    return freelancers.filter(freelancer => freelancer.carrera.toLowerCase() === carrera.toLowerCase());
+    
+    // Filtrar sólo los freelancers que tengan 'carrera' válida y de tipo string
+    return freelancers.filter(freelancer => 
+        typeof freelancer.carrera === 'string' && 
+        freelancer.carrera.toLowerCase() === carrera.toLowerCase()
+    );
 }
 
 
