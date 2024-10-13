@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nombre_empresa": "Tech Solutions S.A.",
+    "correo_electronico": "contacto@techsolutions.com",
+    "telefono": "+52 999 123 4567",
+    "representante": "Juan Pérez"
+  },
+  {
+    "id": 2,
+    "nombre_empresa": "Marketing Creativo",
+    "correo_electronico": "info@marketingcreativo.com",
+    "telefono": "+52 999 987 6543",
+    "representante": "Ana López"
+  },
+  {
+    "id": 3,
+    "nombre_empresa": "InnovaTech",
+    "correo_electronico": "contacto@innovatech.com",
+    "telefono": "+52 999 111 2233",
+    "representante": "Luis Hernández"
+  },
+  {
+    "id": 4,
+    "nombre_empresa": "Soluciones Digitales",
+    "correo_electronico": "info@solucionesdigitales.com",
+    "telefono": "+52 999 444 5566",
+    "representante": "María García"
+  },
+  {
+    "id": 5,
+    "nombre_empresa": "Desarrollo Web Global",
+    "correo_electronico": "contacto@desarrollowebglobal.com",
+    "telefono": "+52 999 777 8899",
+    "representante": "Carlos Martínez"
+  },
+  {
+    "id": 6,
+    "nombre_empresa": "Agencia de Marketing XYZ",
+    "correo_electronico": "info@agenciamarketingxyz.com",
+    "telefono": "+52 999 000 1122",
+    "representante": "Sofía Rodríguez"
+  },
+  {
+    "id": 7,
+    "nombre_empresa": "Consultores en TI",
+    "correo_electronico": "contacto@consultoresenti.com",
+    "telefono": "+52 999 333 4455",
+    "representante": "Diego Torres"
+  },
+  {
+    "id": 8,
+    "nombre_empresa": "Estrategias de Negocios",
+    "correo_electronico": "info@estrategiasdenegocios.com",
+    "telefono": "+52 999 666 7788",
+    "representante": "Claudia Fernández"
+  },
+  {
+    "id": 9,
+    "nombre_empresa": "Redes y Sistemas",
+    "correo_electronico": "contacto@redessistemas.com",
+    "telefono": "+52 999 222 3344",
+    "representante": "Pedro Jiménez"
+  },
+  {
+    "id": 10,
+    "nombre_empresa": "Soluciones Móviles",
+    "correo_electronico": "info@solucionesmoviles.com",
+    "telefono": "+52 999 555 6677",
+    "representante": "Laura López"
+  },
+  {
+    "id": 11,
+    "nombre_empresa": "Innovaciones Tecnológicas",
+    "correo_electronico": "contacto@innovacionestecnologicas.com",
+    "telefono": "+52 999 888 9900",
+    "representante": "Alberto Castro"
+  },
+  {
+    "id": 12,
+    "nombre_empresa": "Gestión Empresarial",
+    "correo_electronico": "info@gestionempresarial.com",
+    "telefono": "+52 999 123 6789",
+    "representante": "Isabel Pineda"
+  },
+  {
+    "id": 13,
+    "nombre_empresa": "Creatividad Sin Límites",
+    "correo_electronico": "contacto@creatividadsinlimites.com",
+    "telefono": "+52 999 456 7890",
+    "representante": "Rafael Ortega"
+  },
+  {
+    "id": 14,
+    "nombre_empresa": "Consultores de Marketing",
+    "correo_electronico": "info@consultoresdemarketing.com",
+    "telefono": "+52 999 321 6548",
+    "representante": "Patricia Ríos"
+  },
+  {
+    "id": 15,
+    "nombre_empresa": "Desarrollo de Software",
+    "correo_electronico": "contacto@desarrollodesoftware.com",
+    "telefono": "+52 999 654 3210",
+    "representante": "Fernando Vega"
+  },
+  {
+    "id": 16,
+    "nombre_empresa": "Estrategias Digitales",
+    "correo_electronico": "info@estrategiasdigitales.com",
+    "telefono": "+52 999 987 6540",
+    "representante": "Mónica Salazar"
+  },
+  {
+    "id": 17,
+    "nombre_empresa": "Servicios de Tecnología",
+    "correo_electronico": "contacto@serviciosdetechnologia.com",
+    "telefono": "+52 999 345 6789",
+    "representante": "Gabriel Mendoza"
+  },
+  {
+    "id": 18,
+    "nombre_empresa": "Sistemas Inteligentes",
+    "correo_electronico": "info@sistemasinteligentes.com",
+    "telefono": "+52 999 890 1234",
+    "representante": "Beatriz Guerrero"
+  },
+  {
+    "id": 19,
+    "nombre_empresa": "Creatividad Digital",
+    "correo_electronico": "contacto@creatividaddigital.com",
+    "telefono": "+52 999 567 8901",
+    "representante": "Julio Aguirre"
+  },
+  {
+    "id": 20,
+    "nombre_empresa": "Marketing y Publicidad",
+    "correo_electronico": "info@marketingypublicidad.com",
+    "telefono": "+52 999 234 5678",
+    "representante": "Verónica Herrera"
+  },
+  {
+    "id": 21,
+    "nombre_empresa": "Tecnologías de la Información",
+    "correo_electronico": "contacto@tecnologiasdelainformacion.com",
+    "telefono": "+52 999 789 0123",
+    "representante": "Eduardo Silva"
+  },
+  {
+    "id": 22,
+    "nombre_empresa": "Iniciativas de Negocio",
+    "correo_electronico": "info@iniciativasdenegocio.com",
+    "telefono": "+52 999 123 4560",
+    "representante": "Carmen Martínez"
+  },
+  {
+    "id": 23,
+    "nombre_empresa": "Innovación Empresarial",
+    "correo_electronico": "contacto@innovacionempresarial.com",
+    "telefono": "+52 999 234 5670",
+    "representante": "Arturo Castillo"
+  },
+  {
+    "id": 24,
+    "nombre_empresa": "Soluciones en Línea",
+    "correo_electronico": "info@solucionesenlinea.com",
+    "telefono": "+52 999 345 6780",
+    "representante": "Ana Torres"
+  },
+  {
+    "id": 25,
+    "nombre_empresa": "Tendencias Digitales",
+    "correo_electronico": "contacto@tendenciasdigitales.com",
+    "telefono": "+52 999 456 7891",
+    "representante": "Miguel Sánchez"
+  },
+  {
+    "id": 26,
+    "nombre_empresa": "Agencia de Innovación",
+    "correo_electronico": "info@agenciadeinnovacion.com",
+    "telefono": "+52 999 567 8902",
+    "representante": "Luisa Morales"
+  },
+  {
+    "id": 27,
+    "nombre_empresa": "Servicios Creativos",
+    "correo_electronico": "contacto@servicioscreativos.com",
+    "telefono": "+52 999 678 9013",
+    "representante": "Raúl Mendoza"
+  },
+  {
+    "id": 28,
+    "nombre_empresa": "Soluciones Efectivas",
+    "correo_electronico": "info@solucionesefectivas.com",
+    "telefono": "+52 999 789 0124",
+    "representante": "Patricia López"
+  },
+  {
+    "id": 29,
+    "nombre_empresa": "Expertos en Tecnología",
+    "correo_electronico": "contacto@expertosentecnologia.com",
+    "telefono": "+52 999 890 1235",
+    "representante": "Fernando Ramos"
+  },
+  {
+    "id": 30,
+    "nombre_empresa": "Digital Solutions",
+    "correo_electronico": "info@digitalsolutions.com",
+    "telefono": "+52 999 901 2346",
+    "representante": "Teresa Juárez"
+  },
+  {
+    "id": 31,
+    "nombre_empresa": "Servicios de Consultoría",
+    "correo_electronico": "contacto@serviciosdeconsultoria.com",
+    "telefono": "+52 999 012 3457",
+    "representante": "Ángel Romero"
+  },
+  {
+    "id": 32,
+    "nombre_empresa": "Innovación y Creatividad",
+    "correo_electronico": "info@innovacionycreatividad.com",
+    "telefono": "+52 999 123 4568",
+    "representante": "Gabriela Ortega"
+  },
+  {
+    "id": 33,
+    "nombre_empresa": "Estrategias de Comunicación",
+    "correo_electronico": "contacto@estrategiasdecomunicacion.com",
+    "telefono": "+52 999 234 5671",
+    "representante": "Santiago Ramírez"
+  },
+  {
+    "id": 34,
+    "nombre_empresa": "Gestión de Proyectos",
+    "correo_electronico": "info@gestiondeproyectos.com",
+    "telefono": "+52 999 345 6782",
+    "representante": "Nadia Fernández"
+  },
+  {
+    "id": 35,
+    "nombre_empresa": "Marketing Digital",
+    "correo_electronico": "contacto@marketingdigital.com",
+    "telefono": "+52 999 456 7893",
+    "representante": "Juliana Ponce"
+  },
+  {
+    "id": 36,
+    "nombre_empresa": "Consultoría Estratégica",
+    "correo_electronico": "info@consultoriaestrategica.com",
+    "telefono": "+52 999 567 8904",
+    "representante": "Manuel Torres"
+  },
+  {
+    "id": 37,
+    "nombre_empresa": "Desarrollo de Aplicaciones",
+    "correo_electronico": "contacto@desarrollodeaplicaciones.com",
+    "telefono": "+52 999 678 9015",
+    "representante": "Evelyn Suárez"
+  },
+  {
+    "id": 38,
+    "nombre_empresa": "Soluciones Integrales",
+    "correo_electronico": "info@solucionesintegrales.com",
+    "telefono": "+52 999 789 0126",
+    "representante": "Hugo Núñez"
+  },
+  {
+    "id": 39,
+    "nombre_empresa": "Redes Sociales y Marketing",
+    "correo_electronico": "contacto@redessocialesymarketing.com",
+    "telefono": "+52 999 890 1237",
+    "representante": "Luz Méndez"
+  },
+  {
+    "id": 40,
+    "nombre_empresa": "Consultoría en TI",
+    "correo_electronico": "info@consultoriainte.com",
+    "telefono": "+52 999 901 2348",
+    "representante": "Victor Pérez"
+  },
+  {
+    "id": 41,
+    "nombre_empresa": "Agencia de Publicidad",
+    "correo_electronico": "contacto@agenciadepublicidad.com",
+    "telefono": "+52 999 012 3459",
+    "representante": "Camila Castro"
+  },
+  {
+    "id": 42,
+    "nombre_empresa": "Sistemas de Información",
+    "correo_electronico": "info@sistemasdeinformacion.com",
+    "telefono": "+52 999 123 4569",
+    "representante": "Alma González"
+  },
+  {
+    "id": 43,
+    "nombre_empresa": "Marketing Inteligente",
+    "correo_electronico": "contacto@marketinginteligente.com",
+    "telefono": "+52 999 234 5672",
+    "representante": "Simón Castro"
+  },
+  {
+    "id": 44,
+    "nombre_empresa": "Soluciones Avanzadas",
+    "correo_electronico": "info@solucionesavanzadas.com",
+    "telefono": "+52 999 345 6783",
+    "representante": "Martín Pérez"
+  },
+  {
+    "id": 45,
+    "nombre_empresa": "Tecnología y Proyectos",
+    "correo_electronico": "contacto@tecnologiaproyectos.com",
+    "telefono": "+52 999 456 7894",
+    "representante": "Clara Jiménez"
+  },
+  {
+    "id": 46,
+    "nombre_empresa": "Diseño Gráfico Digital",
+    "correo_electronico": "info@diseñograficodigital.com",
+    "telefono": "+52 999 567 8905",
+    "representante": "Alfredo Morales"
+  },
+  {
+    "id": 47,
+    "nombre_empresa": "Consultoría Empresarial",
+    "correo_electronico": "contacto@consultoriaempresarial.com",
+    "telefono": "+52 999 678 9016",
+    "representante": "Susana Torres"
+  },
+  {
+    "id": 48,
+    "nombre_empresa": "Soluciones Creativas",
+    "correo_electronico": "info@solucionescreativas.com",
+    "telefono": "+52 999 789 0127",
+    "representante": "Nicolás Ramírez"
+  },
+  {
+    "id": 49,
+    "nombre_empresa": "Desarrollo de Negocios2",
+    "correo_electronico": "contacto@desarrollodenegocios.com",
+    "telefono": "+52 999 890 1238",
+    "representante": "Valeria Mendoza"
+  },
+  {
+    "id": null,
+    "nombre_empresa": "Dsesarrollo de Negocios32",
+    "correo_electronico": "contacto@desarrollodenegocios12.com",
+    "telefono": "+52 999 890 1238",
+    "representante": "Valeria Mendoza"
+  }
+]
