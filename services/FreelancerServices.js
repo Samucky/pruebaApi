@@ -62,8 +62,12 @@ async function deleteFreelancer(nombre) {
 }
 
 async function findFreelancersByCareer(carrera) {
-    const freelancers = await getAllFreelancers(); // Usa la función para obtener todos los freelancers
-    return freelancers.filter(freelancer => freelancer.carrera.toLowerCase() === carrera.toLowerCase()); // Filtra por carrera
+    if (typeof carrera !== 'string') {
+        throw new Error("La carrera debe ser una cadena.");
+    }
+    
+    const freelancers = await freelancerRepository.getFreelancers();
+    return freelancers.filter(freelancer => freelancer.carrera.toLowerCase() === carrera.toLowerCase());
 }
 
 
