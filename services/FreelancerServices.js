@@ -4,21 +4,34 @@ async function getAllFreelancers() {
     return await freelancerRepository.getFreelancers();
 }
 
+
 async function addFreelancer(freelancer) {
+    // Verifica que el freelancer tenga nombre y carrera
     if (!freelancer.nombre || !freelancer.carrera) {
         throw new Error("El freelancer debe tener un nombre y una carrera.");
     }
 
+    // Obtiene la lista actual de freelancers
     const freelancers = await freelancerRepository.getFreelancers();
+    console.log('Freelancers existentes:', freelancers); // Imprime la lista actual
 
-    const newId = freelancers.length > 0 ? Math.max(...freelancers.map(f => f.id)) + 1 : 1;
+    // Genera un nuevo ID, asegurando que no se generen NaN
+    const newId = freelancers.length > 0 ? Math.max(...freelancers.map(f => f.id || 0)) + 1 : 1;
+    
+    // Crea un nuevo freelancer incluyendo el nuevo ID
     const newFreelancer = { ...freelancer, id: newId };
+    console.log('Nuevo freelancer a agregar:', newFreelancer); // Depuración
 
+    // Añade el nuevo freelancer a la lista existente
     freelancers.push(newFreelancer);
+    
+    // Guarda la lista actualizada de freelancers
     await freelancerRepository.saveFreelancers(freelancers);
 
-    return newFreelancer;
+    // Retorna el nuevo freelancer con el ID
+    return newFreelancer; // Aquí ya se incluye el id
 }
+
 
 async function updateFreelancer(id, updatedFreelancer) {
     const freelancers = await freelancerRepository.getFreelancers();
@@ -49,9 +62,10 @@ async function deleteFreelancer(nombre) {
 }
 
 async function findFreelancersByCareer(carrera) {
-  const freelancers = await freelancerRepository.getFreelancers();
-  return freelancers.filter(freelancer => freelancer.carrera.toLowerCase() === carrera.toLowerCase());
+    const freelancers = await getAllFreelancers(); // Usa la función para obtener todos los freelancers
+    return freelancers.filter(freelancer => freelancer.carrera.toLowerCase() === carrera.toLowerCase()); // Filtra por carrera
 }
+
 
 export default {
   getAllFreelancers,

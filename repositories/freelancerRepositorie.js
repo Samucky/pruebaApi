@@ -7,6 +7,7 @@ async function getFreelancers() {
     try {
         const data = await fs.readJson(filePath);
         return data.map(freelancer => new Freelancer(
+            freelancer.id,
             freelancer.nombre,
             freelancer.edad,
             freelancer.carrera,

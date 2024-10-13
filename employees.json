@@ -1,1 +1,1260 @@
-[{"nombre":"Juan Pérez","edad":30,"carrera":"Desarrollo Web","años_de_experiencia":8,"habilidades":["HTML","CSS","JavaScript","React"],"tarifa_por_hora":25,"proyectos_anteriores":["Sitio Web E-commerce","Landing Page para Startup"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Compañía XYZ","comentario":"Excelente trabajo, muy profesional.","calificacion":5},{"cliente":"Tech Solutions","comentario":"Rápido y eficiente.","calificacion":4}],"certificaciones":["Certificación en React","Desarrollo Web Full Stack"],"idiomas":["Español","Inglés"]},{"nombre":"Laura Gómez","edad":27,"carrera":"Diseño Gráfico","años_de_experiencia":5,"habilidades":["Adobe Photoshop","Illustrator","InDesign"],"tarifa_por_hora":30,"proyectos_anteriores":["Rediseño de Marca","Campaña Publicitaria Visual"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Agencia Creativa","comentario":"El trabajo cumplió todas las expectativas.","calificacion":5}],"certificaciones":["Adobe Certified Expert","Certificación en Diseño UI/UX"],"idiomas":["Español","Catalán","Inglés"]},{"nombre":"Pedro Álvarez","edad":35,"carrera":"Ingeniería de Software","años_de_experiencia":10,"habilidades":["Python","Django","AWS"],"tarifa_por_hora":40,"proyectos_anteriores":["Plataforma SaaS","Sistema de Gestión de Inventarios"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Comercio Online","comentario":"Súper eficiente y gran manejo de AWS.","calificacion":5}],"certificaciones":["AWS Certified Developer","Certificación en Django"],"idiomas":["Español","Inglés"]},{"nombre":"Andrea Martínez","edad":29,"carrera":"Marketing Digital","años_de_experiencia":6,"habilidades":["SEO","SEM","Google Ads"],"tarifa_por_hora":35,"proyectos_anteriores":["Optimización SEO de E-commerce","Campaña en Google Ads"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Startup Tech","comentario":"Gran manejo de campañas de marketing.","calificacion":5}],"certificaciones":["Certificación en Google Ads","Certificación en SEO"],"idiomas":["Español","Inglés"]},{"nombre":"Carlos Sánchez","edad":32,"carrera":"Desarrollo Móvil","años_de_experiencia":7,"habilidades":["Kotlin","Swift","React Native"],"tarifa_por_hora":45,"proyectos_anteriores":["Aplicación de Delivery","App Financiera"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"FinTech Corp","comentario":"Desarrollador móvil altamente capacitado.","calificacion":5}],"certificaciones":["Certificación en Desarrollo Android","Certificación en iOS"],"idiomas":["Español","Inglés"]},{"nombre":"Sofía López","edad":28,"carrera":"Redacción y Copywriting","años_de_experiencia":4,"habilidades":["SEO Copywriting","Redacción de Blogs","Edición"],"tarifa_por_hora":20,"proyectos_anteriores":["Artículos para Blog de Tecnología","Contenido Web SEO para E-commerce"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"BlogTech","comentario":"Redactora con excelente dominio de SEO.","calificacion":4}],"certificaciones":["Certificación en Copywriting SEO","Curso de Redacción Creativa"],"idiomas":["Español","Inglés"]},{"nombre":"Francisco Torres","edad":38,"carrera":"Seguridad Informática","años_de_experiencia":12,"habilidades":["Ciberseguridad","Auditoría de Sistemas","Penetration Testing"],"tarifa_por_hora":50,"proyectos_anteriores":["Auditoría de Seguridad en Empresa FinTech","Test de Penetración para E-commerce"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Compañía Financiera","comentario":"Gran conocimiento en ciberseguridad.","calificacion":5}],"certificaciones":["Certified Ethical Hacker (CEH)","ISO 27001 Lead Auditor"],"idiomas":["Español","Inglés"]},{"nombre":"Juan Pérez","edad":30,"carrera":"Desarrollo Web","años_de_experiencia":8,"habilidades":["HTML","CSS","JavaScript","React"],"tarifa_por_hora":25,"proyectos_anteriores":["Sitio Web E-commerce","Landing Page para Startup"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Compañía XYZ","comentario":"Excelente trabajo, muy profesional.","calificacion":5},{"cliente":"Tech Solutions","comentario":"Rápido y eficiente.","calificacion":4}],"certificaciones":["Certificación en React","Desarrollo Web Full Stack"],"idiomas":["Español","Inglés"]},{"nombre":"Laura Gómez","edad":27,"carrera":"Diseño Gráfico","años_de_experiencia":5,"habilidades":["Adobe Photoshop","Illustrator","InDesign"],"tarifa_por_hora":30,"proyectos_anteriores":["Rediseño de Marca","Campaña Publicitaria Visual"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Agencia Creativa","comentario":"El trabajo cumplió todas las expectativas.","calificacion":5}],"certificaciones":["Adobe Certified Expert","Certificación en Diseño UI/UX"],"idiomas":["Español","Catalán","Inglés"]},{"nombre":"Pedro Álvarez","edad":35,"carrera":"Ingeniería de Software","años_de_experiencia":10,"habilidades":["Python","Django","AWS"],"tarifa_por_hora":40,"proyectos_anteriores":["Plataforma SaaS","Sistema de Gestión de Inventarios"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Comercio Online","comentario":"Súper eficiente y gran manejo de AWS.","calificacion":5}],"certificaciones":["AWS Certified Developer","Certificación en Django"],"idiomas":["Español","Inglés"]},{"nombre":"Andrea Martínez","edad":29,"carrera":"Marketing Digital","años_de_experiencia":6,"habilidades":["SEO","SEM","Google Ads"],"tarifa_por_hora":35,"proyectos_anteriores":["Optimización SEO de E-commerce","Campaña en Google Ads"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Startup Tech","comentario":"Gran manejo de campañas de marketing.","calificacion":5}],"certificaciones":["Certificación en Google Ads","Certificación en SEO"],"idiomas":["Español","Inglés"]},{"nombre":"Carlos Sánchez","edad":32,"carrera":"Desarrollo Móvil","años_de_experiencia":7,"habilidades":["Kotlin","Swift","React Native"],"tarifa_por_hora":45,"proyectos_anteriores":["Aplicación de Delivery","App Financiera"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"FinTech Corp","comentario":"Desarrollador móvil altamente capacitado.","calificacion":5}],"certificaciones":["Certificación en Desarrollo Android","Certificación en iOS"],"idiomas":["Español","Inglés"]},{"nombre":"Sofía López","edad":28,"carrera":"Redacción y Copywriting","años_de_experiencia":4,"habilidades":["SEO Copywriting","Redacción de Blogs","Edición"],"tarifa_por_hora":20,"proyectos_anteriores":["Artículos para Blog de Tecnología","Contenido Web SEO para E-commerce"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"BlogTech","comentario":"Redactora con excelente dominio de SEO.","calificacion":4}],"certificaciones":["Certificación en Copywriting SEO","Curso de Redacción Creativa"],"idiomas":["Español","Inglés"]},{"nombre":"Francisco Torres","edad":38,"carrera":"Seguridad Informática","años_de_experiencia":12,"habilidades":["Ciberseguridad","Auditoría de Sistemas","Penetration Testing"],"tarifa_por_hora":50,"proyectos_anteriores":["Auditoría de Seguridad en Empresa FinTech","Test de Penetración para E-commerce"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Compañía Financiera","comentario":"Gran conocimiento en ciberseguridad.","calificacion":5}],"certificaciones":["Certified Ethical Hacker (CEH)","ISO 27001 Lead Auditor"],"idiomas":["Español","Inglés"]},{"nombre":"Marcela Ruiz","edad":31,"carrera":"Consultoría de Proyectos","años_de_experiencia":9,"habilidades":["Gestión de Proyectos","Scrum","Kanban"],"tarifa_por_hora":60,"proyectos_anteriores":["Implementación de ERP","Liderazgo de Equipos Ágiles"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"CorpTech","comentario":"Consultora muy eficiente y clara en sus propuestas.","calificacion":5}],"certificaciones":["PMP","Scrum Master"],"idiomas":["Español","Inglés","Francés"]},{"nombre":"Javier Morales","edad":29,"carrera":"Desarrollo de Videojuegos","años_de_experiencia":5,"habilidades":["Unity","C#","Diseño 3D"],"tarifa_por_hora":35,"proyectos_anteriores":["Videojuego de Realidad Aumentada","Juego de Plataformas 2D"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Studio Indie","comentario":"Muy creativo y atento a los detalles.","calificacion":5}],"certificaciones":["Unity Certified Developer","Curso de Diseño de Videojuegos"],"idiomas":["Español","Inglés"]},{"nombre":"Valeria Núñez","edad":26,"carrera":"Fotografía y Edición","años_de_experiencia":4,"habilidades":["Fotografía de Producto","Edición en Lightroom","Photoshop"],"tarifa_por_hora":28,"proyectos_anteriores":["Fotografía para Catálogo de Moda","Edición de Sesiones de Fotos Corporativas"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Compañía de Moda","comentario":"Fotos espectaculares, superó expectativas.","calificacion":5}],"certificaciones":["Curso de Fotografía Avanzada","Certificación en Edición"],"idiomas":["Español","Inglés"]},{"nombre":"Ana Rodríguez","edad":34,"carrera":"Consultoría Financiera","años_de_experiencia":12,"habilidades":["Análisis Financiero","Contabilidad","Planificación Financiera"],"tarifa_por_hora":75,"proyectos_anteriores":["Análisis de Riesgo Financiero","Plan de Inversión a 5 años"],"disponibilidad":10,"calificaciones_o_reseñas":[{"cliente":"Empresa Minera","comentario":"Excelentes análisis financieros, muy profesional.","calificacion":5}],"certificaciones":["CFA","Certificación en Análisis Financiero"],"idiomas":["Español","Inglés"]},{"nombre":"Miguel Ramírez","edad":40,"carrera":"Desarrollo Backend","años_de_experiencia":15,"habilidades":["Node.js","SQL","APIs REST"],"tarifa_por_hora":50,"proyectos_anteriores":["API para sistema de ventas","Backend para aplicación de banca en línea"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Banca Online","comentario":"Gran capacidad para resolver problemas complejos.","calificacion":5}],"certificaciones":["Certified Node.js Developer","SQL Mastery"],"idiomas":["Español","Inglés"]},{"nombre":"Paula Fernández","edad":25,"carrera":"Diseño UI/UX","años_de_experiencia":4,"habilidades":["Sketch","Figma","Prototipado"],"tarifa_por_hora":45,"proyectos_anteriores":["Rediseño de App Móvil","Interfaz de Usuario para SaaS"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Aplicación de Movilidad","comentario":"Interfaz de usuario intuitiva y moderna.","calificacion":5}],"certificaciones":["Certificación en Diseño UX","Curso de Sketch"],"idiomas":["Español","Inglés"]},{"nombre":"Diego Fuentes","edad":37,"carrera":"Ingeniería DevOps","años_de_experiencia":11,"habilidades":["Docker","Kubernetes","AWS","CI/CD"],"tarifa_por_hora":60,"proyectos_anteriores":["Automatización de despliegues en AWS","Infraestructura como código con Terraform"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"FinTech","comentario":"DevOps altamente capacitado, automatizó todo el flujo de trabajo.","calificacion":5}],"certificaciones":["AWS Certified Solutions Architect","Certified Kubernetes Administrator"],"idiomas":["Español","Inglés"]},{"nombre":"María Castillo","edad":31,"carrera":"Marketing de Contenidos","años_de_experiencia":7,"habilidades":["Content Marketing","SEO","Redacción Creativa"],"tarifa_por_hora":30,"proyectos_anteriores":["Estrategia de contenidos para E-commerce","Planificación de blog corporativo"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Comercio Electrónico","comentario":"Estrategia de contenidos bien ejecutada y con resultados claros.","calificacion":4}],"certificaciones":["Content Marketing Certification","SEO Specialist"],"idiomas":["Español","Inglés"]},{"nombre":"Gabriel Silva","edad":42,"carrera":"Desarrollo Frontend","años_de_experiencia":18,"habilidades":["JavaScript","Vue.js","Tailwind CSS"],"tarifa_por_hora":45,"proyectos_anteriores":["Portal web para startup tecnológica","Aplicación web SPA"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Startup de Tecnología","comentario":"Gran manejo de Vue.js y siempre entrega a tiempo.","calificacion":5}],"certificaciones":["Vue.js Developer Certification","Advanced JavaScript"],"idiomas":["Portugués","Español","Inglés"]},{"nombre":"Elena Ponce","edad":33,"carrera":"Ingeniería de Datos","años_de_experiencia":9,"habilidades":["SQL","Python","ETL","Big Data"],"tarifa_por_hora":55,"proyectos_anteriores":["Pipeline de ETL en Python","Modelo de datos para análisis en Big Data"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Data Analytics","comentario":"Altamente eficiente en la creación de pipelines de datos.","calificacion":5}],"certificaciones":["Certified Data Engineer","Big Data Analytics"],"idiomas":["Español","Inglés"]},{"nombre":"Luis Hernández","edad":29,"carrera":"Ilustración Digital","años_de_experiencia":6,"habilidades":["Illustrator","Procreate","Diseño de Personajes"],"tarifa_por_hora":35,"proyectos_anteriores":["Diseño de personajes para videojuego","Ilustración de portadas de libros"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Estudio Creativo","comentario":"Ilustraciones impresionantes, superaron mis expectativas.","calificacion":5}],"certificaciones":["Certified Illustrator Expert","Curso de Ilustración Digital"],"idiomas":["Español","Inglés"]},{"nombre":"Isabel García","edad":24,"carrera":"Desarrollo de Aplicaciones Móviles","años_de_experiencia":3,"habilidades":["Flutter","Dart","Firebase"],"tarifa_por_hora":30,"proyectos_anteriores":["App de mensajería instantánea","Aplicación móvil para reservas de restaurantes"],"disponibilidad":35,"calificaciones_o_reseñas":[{"cliente":"Startup de Restaurantes","comentario":"Gran habilidad en el desarrollo de aplicaciones móviles con Flutter.","calificacion":5}],"certificaciones":["Flutter Developer Certification","Firebase Expert"],"idiomas":["Español","Inglés"]},{"nombre":"Ricardo Cruz","edad":36,"carrera":"Ingeniería de Redes","años_de_experiencia":14,"habilidades":["Cisco","Seguridad de Redes","Firewall"],"tarifa_por_hora":65,"proyectos_anteriores":["Configuración de redes corporativas","Implementación de firewall en empresa de telecomunicaciones"],"disponibilidad":10,"calificaciones_o_reseñas":[{"cliente":"Telecomunicaciones","comentario":"Excelente conocimiento en redes y seguridad.","calificacion":5}],"certificaciones":["Cisco CCNA","Certified Network Security Engineer"],"idiomas":["Español","Inglés"]},{"nombre":"Javier Gutiérrez","edad":45,"carrera":"Ingeniería en IA","años_de_experiencia":20,"habilidades":["Python","Machine Learning","Deep Learning","TensorFlow"],"tarifa_por_hora":85,"proyectos_anteriores":["Modelo de clasificación de imágenes","Sistema de recomendación para e-commerce"],"disponibilidad":10,"calificaciones_o_reseñas":[{"cliente":"Comercio Electrónico","comentario":"Excelente implementación de algoritmos de recomendación.","calificacion":5}],"certificaciones":["TensorFlow Developer","Machine Learning Engineer"],"idiomas":["Español","Inglés"]},{"nombre":"Verónica Morales","edad":27,"carrera":"Diseño Gráfico","años_de_experiencia":5,"habilidades":["Photoshop","Illustrator","InDesign"],"tarifa_por_hora":40,"proyectos_anteriores":["Diseño de logotipos","Maquetación de revistas"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Editorial","comentario":"Creativa y eficiente, el diseño fue exactamente lo que necesitábamos.","calificacion":4}],"certificaciones":["Adobe Certified Expert"],"idiomas":["Español","Inglés"]},{"nombre":"Oscar Quintana","edad":32,"carrera":"Ingeniería en Seguridad Cibernética","años_de_experiencia":10,"habilidades":["Penetration Testing","Auditoría de Seguridad","Firewalls"],"tarifa_por_hora":70,"proyectos_anteriores":["Auditoría de seguridad para una corporación","Implementación de medidas de ciberseguridad"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Empresa de Tecnología","comentario":"Gran capacidad para identificar y mitigar riesgos.","calificacion":5}],"certificaciones":["Certified Ethical Hacker (CEH)","CISSP"],"idiomas":["Español","Inglés"]},{"nombre":"Lucía Reyes","edad":29,"carrera":"Periodismo y Redacción","años_de_experiencia":8,"habilidades":["Redacción Creativa","SEO","Periodismo Digital"],"tarifa_por_hora":30,"proyectos_anteriores":["Artículos para medios digitales","Gestión de contenido en redes sociales"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Medio Digital","comentario":"Artículos bien investigados y redactados, cumpliendo los plazos.","calificacion":5}],"certificaciones":["Curso Avanzado de SEO","Certificación en Periodismo Digital"],"idiomas":["Español","Inglés"]},{"nombre":"Fernando Torres","edad":41,"carrera":"Consultoría de Proyectos","años_de_experiencia":18,"habilidades":["Gestión de Proyectos","PMBOK","Scrum Master"],"tarifa_por_hora":90,"proyectos_anteriores":["Gestión de proyectos tecnológicos","Implementación de metodologías ágiles"],"disponibilidad":10,"calificaciones_o_reseñas":[{"cliente":"Consultoría en TI","comentario":"Gestión impecable y adaptabilidad en metodologías ágiles.","calificacion":5}],"certificaciones":["PMP","Certified Scrum Master"],"idiomas":["Español","Inglés"]},{"nombre":"Daniela Sánchez","edad":26,"carrera":"Desarrollo Web Full Stack","años_de_experiencia":6,"habilidades":["HTML","CSS","JavaScript","React","Node.js"],"tarifa_por_hora":45,"proyectos_anteriores":["Aplicación web de comercio electrónico","Sistema de gestión de usuarios"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Startup de Software","comentario":"Excelente habilidad técnica y comunicación fluida.","calificacion":5}],"certificaciones":["Full Stack Web Developer Bootcamp"],"idiomas":["Español","Inglés"]},{"nombre":"Felipe Vargas","edad":39,"carrera":"Consultoría en TI","años_de_experiencia":17,"habilidades":["Transformación Digital","Estrategia TI","Cloud Computing"],"tarifa_por_hora":85,"proyectos_anteriores":["Plan estratégico de TI","Implementación de nube híbrida"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Corporación Multinacional","comentario":"Excelente planificación y visión estratégica.","calificacion":5}],"certificaciones":["AWS Solutions Architect","Certified Cloud Practitioner"],"idiomas":["Español","Inglés"]},{"nombre":"Carla Salinas","edad":28,"carrera":"Fotografía Profesional","años_de_experiencia":7,"habilidades":["Fotografía de Producto","Retoque Digital","Fotografía de Moda"],"tarifa_por_hora":50,"proyectos_anteriores":["Sesiones de fotos para campañas publicitarias","Fotografía de productos para ecommerce"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Agencia de Publicidad","comentario":"Trabajo de alta calidad y creatividad.","calificacion":5}],"certificaciones":["Diplomado en Fotografía Digital"],"idiomas":["Español","Inglés"]},{"nombre":"Juan Muñoz","edad":36,"carrera":"Administración de Bases de Datos","años_de_experiencia":12,"habilidades":["MySQL","PostgreSQL","Oracle"],"tarifa_por_hora":60,"proyectos_anteriores":["Optimización de base de datos para sistema de reservas","Migración de base de datos a la nube"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Empresa de Reservas","comentario":"Eficiente y con gran conocimiento en bases de datos.","calificacion":5}],"certificaciones":["Oracle Certified Professional","MySQL Expert"],"idiomas":["Español","Inglés"]},{"nombre":"Natalia Ruiz","edad":30,"carrera":"Analista de Negocios","años_de_experiencia":9,"habilidades":["Análisis de Procesos","Consultoría Empresarial","Gestión de Cambios"],"tarifa_por_hora":55,"proyectos_anteriores":["Optimización de procesos en cadena de suministro","Análisis de rentabilidad para empresa retail"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Empresa de Retail","comentario":"Aportó soluciones eficientes para optimizar nuestra operación.","calificacion":5}],"certificaciones":["Certified Business Analyst","Six Sigma Green Belt"],"idiomas":["Español","Inglés"]},{"nombre":"Gonzalo Paredes","edad":48,"carrera":"Abogacía","años_de_experiencia":25,"habilidades":["Derecho Corporativo","Propiedad Intelectual","Negociación de Contratos"],"tarifa_por_hora":150,"proyectos_anteriores":["Asesoría legal para startups","Negociación de contratos de tecnología"],"disponibilidad":5,"calificaciones_o_reseñas":[{"cliente":"Startup de Tecnología","comentario":"Excelente en negociación de contratos y protecciones legales.","calificacion":5}],"certificaciones":["Maestría en Derecho Corporativo","Diplomado en Propiedad Intelectual"],"idiomas":["Español","Inglés"]},{"nombre":"Camila Londoño","edad":34,"carrera":"Desarrollo Móvil","años_de_experiencia":10,"habilidades":["Kotlin","Swift","Flutter"],"tarifa_por_hora":65,"proyectos_anteriores":["Aplicaciones para iOS y Android","Desarrollo de apps multiplataforma"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Startup de aplicaciones móviles","comentario":"Desarrolladora altamente eficiente y competente.","calificacion":5}],"certificaciones":["Google Associate Android Developer","Certified iOS Developer"],"idiomas":["Español","Inglés"]},{"nombre":"Pedro Cáceres","edad":42,"carrera":"Marketing Digital","años_de_experiencia":15,"habilidades":["SEO","Google Ads","Facebook Ads"],"tarifa_por_hora":55,"proyectos_anteriores":["Campañas SEO para ecommerce","Gestión de campañas publicitarias"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Empresa de Ecommerce","comentario":"Aumentó significativamente nuestro tráfico y conversiones.","calificacion":5}],"certificaciones":["Google Analytics Certified","HubSpot Inbound Marketing"],"idiomas":["Español","Inglés"]},{"nombre":"Lorena García","edad":31,"carrera":"Diseño UX/UI","años_de_experiencia":8,"habilidades":["Figma","Sketch","Adobe XD"],"tarifa_por_hora":60,"proyectos_anteriores":["Rediseño de interfaz de usuario","Optimización de experiencia de usuario en apps móviles"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Aplicación móvil de fintech","comentario":"El rediseño mejoró significativamente la experiencia del usuario.","calificacion":5}],"certificaciones":["UX Design Certificate","Google UX Design"],"idiomas":["Español","Inglés"]},{"nombre":"Mauricio Delgado","edad":29,"carrera":"Ingeniería DevOps","años_de_experiencia":7,"habilidades":["Docker","Kubernetes","AWS","CI/CD"],"tarifa_por_hora":75,"proyectos_anteriores":["Automatización de despliegue en la nube","Implementación de pipelines CI/CD"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Startup de tecnología","comentario":"Excelente en la optimización de flujos DevOps.","calificacion":5}],"certificaciones":["AWS Certified DevOps Engineer","Docker Certified Associate"],"idiomas":["Español","Inglés"]},{"nombre":"Elena Ávila","edad":37,"carrera":"Gestión de Proyectos","años_de_experiencia":12,"habilidades":["Gestión Ágil","Scrum","Kanban"],"tarifa_por_hora":65,"proyectos_anteriores":["Implementación de metodologías ágiles","Gestión de equipos de desarrollo"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Empresa de desarrollo de software","comentario":"Excelente gestión y seguimiento de proyectos.","calificacion":5}],"certificaciones":["Certified Scrum Master","PMI Agile Certified Practitioner"],"idiomas":["Español","Inglés"]},{"nombre":"Héctor Vega","edad":33,"carrera":"Ingeniería de Software","años_de_experiencia":10,"habilidades":["Java","C#","SQL","Spring Boot"],"tarifa_por_hora":60,"proyectos_anteriores":["Desarrollo de backend para aplicaciones empresariales","Optimización de bases de datos"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Corporación multinacional","comentario":"Desarrollador altamente técnico y eficiente.","calificacion":5}],"certificaciones":["Oracle Certified Professional","Spring Certified Developer"],"idiomas":["Español","Inglés"]},{"nombre":"Valeria Rosales","edad":26,"carrera":"Marketing y Contenidos","años_de_experiencia":5,"habilidades":["Copywriting","Marketing de Contenidos","SEO"],"tarifa_por_hora":35,"proyectos_anteriores":["Estrategias de contenido para blogs","Redacción SEO para ecommerce"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Agencia de marketing","comentario":"Redactora creativa con gran sentido estratégico.","calificacion":5}],"certificaciones":["Content Marketing Certified","Google SEO Expert"],"idiomas":["Español","Inglés"]},{"nombre":"Rodrigo Castillo","edad":41,"carrera":"Ciberseguridad","años_de_experiencia":18,"habilidades":["Penetration Testing","Análisis Forense","Auditoría de Seguridad"],"tarifa_por_hora":80,"proyectos_anteriores":["Evaluación de seguridad para empresas financieras","Mitigación de vulnerabilidades en redes corporativas"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Banco Multinacional","comentario":"Altamente efectivo en la identificación de amenazas.","calificacion":5}],"certificaciones":["Certified Information Systems Security Professional (CISSP)","Certified Ethical Hacker (CEH)"],"idiomas":["Español","Inglés"]},{"nombre":"Isabel Mora","edad":30,"carrera":"Ingeniería de Datos","años_de_experiencia":8,"habilidades":["Python","SQL","ETL","Big Data"],"tarifa_por_hora":70,"proyectos_anteriores":["Procesamiento de datos masivos","Diseño de pipelines de datos"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Empresa de Telecomunicaciones","comentario":"Manejo excelente de grandes volúmenes de datos.","calificacion":5}],"certificaciones":["Microsoft Certified: Azure Data Engineer","Google Cloud Professional Data Engineer"],"idiomas":["Español","Inglés"]},{"nombre":"Carlos Navarro","edad":27,"carrera":"Animación 3D","años_de_experiencia":6,"habilidades":["Blender","Maya","After Effects"],"tarifa_por_hora":50,"proyectos_anteriores":["Cortometrajes animados","Animación de productos para publicidad"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Agencia de Publicidad","comentario":"Animaciones de alta calidad y creatividad.","calificacion":5}],"certificaciones":["Certified 3D Animator"],"idiomas":["Español","Inglés"]},{"nombre":"Natalia Ortega","edad":28,"carrera":"Desarrollo Frontend","años_de_experiencia":6,"habilidades":["React","Vue.js","Tailwind CSS"],"tarifa_por_hora":50,"proyectos_anteriores":["Desarrollo de interfaces web","Optimización de rendimiento web"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Empresa de ecommerce","comentario":"Excelente habilidad en la creación de interfaces fluidas y modernas.","calificacion":5}],"certificaciones":["Certified Frontend Developer","React Mastery"],"idiomas":["Español","Inglés"]},{"nombre":"Daniel Ríos","edad":35,"carrera":"Administración de Bases de Datos","años_de_experiencia":12,"habilidades":["SQL","PostgreSQL","MongoDB"],"tarifa_por_hora":65,"proyectos_anteriores":["Mantenimiento de bases de datos empresariales","Optimización de consultas SQL"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Empresa financiera","comentario":"Excelente optimización de la base de datos y mejoras de rendimiento.","calificacion":5}],"certificaciones":["Oracle Certified DBA","MongoDB Certified DBA"],"idiomas":["Español","Inglés"]},{"nombre":"Julia Vargas","edad":29,"carrera":"Desarrollo Backend","años_de_experiencia":8,"habilidades":["Node.js","Python","API Rest"],"tarifa_por_hora":55,"proyectos_anteriores":["Desarrollo de APIs","Integración de sistemas backend"],"disponibilidad":25,"calificaciones_o_reseñas":[{"cliente":"Startup tecnológica","comentario":"Excelente en la integración de sistemas y soluciones backend escalables.","calificacion":5}],"certificaciones":["Certified Node.js Developer","Python Fullstack Development"],"idiomas":["Español","Inglés"]},{"nombre":"Miguel Solano","edad":40,"carrera":"Ingeniería de Redes","años_de_experiencia":18,"habilidades":["Cisco","Redes WAN","Seguridad en redes"],"tarifa_por_hora":85,"proyectos_anteriores":["Implementación de redes empresariales","Configuración de sistemas de seguridad de red"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Empresa multinacional","comentario":"Excelente configuración y seguridad en redes corporativas.","calificacion":5}],"certificaciones":["Cisco Certified Network Professional (CCNP)","Certified Network Security Professional"],"idiomas":["Español","Inglés"]},{"nombre":"Lucía Ferrer","edad":32,"carrera":"Diseño Gráfico","años_de_experiencia":10,"habilidades":["Illustrator","Photoshop","InDesign"],"tarifa_por_hora":40,"proyectos_anteriores":["Diseño de logos","Branding corporativo"],"disponibilidad":30,"calificaciones_o_reseñas":[{"cliente":"Agencia de marketing","comentario":"Creativa y con gran atención al detalle.","calificacion":5}],"certificaciones":["Adobe Certified Expert","Certified Graphic Designer"],"idiomas":["Español","Inglés"]},{"nombre":"Ignacio Quiñones","edad":39,"carrera":"Ingeniería de Software","años_de_experiencia":15,"habilidades":["Java","Spring Boot","Microservicios"],"tarifa_por_hora":70,"proyectos_anteriores":["Desarrollo de aplicaciones empresariales","Arquitectura de microservicios"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Corporación internacional","comentario":"Excelente desarrollador, entregas siempre puntuales.","calificacion":5}],"certificaciones":["Oracle Certified Professional Java SE","Certified Spring Developer"],"idiomas":["Español","Inglés"]},{"nombre":"Rafael Delgado","edad":36,"carrera":"Diseño de Interiores","años_de_experiencia":12,"habilidades":["AutoCAD","3D Studio Max","Diseño de interiores residenciales"],"tarifa_por_hora":75,"proyectos_anteriores":["Diseño de interiores de casas","Remodelaciones comerciales"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Desarrolladora inmobiliaria","comentario":"Creativo, con ideas innovadoras para espacios funcionales.","calificacion":5}],"certificaciones":["Certified Interior Designer","AutoCAD Professional"],"idiomas":["Español","Inglés"]},{"nombre":"Fernanda Maldonado","edad":30,"carrera":"Gestión de Proyectos","años_de_experiencia":8,"habilidades":["Scrum","Kanban","Metodologías ágiles"],"tarifa_por_hora":60,"proyectos_anteriores":["Liderazgo de equipos de desarrollo","Implementación de metodologías ágiles"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Empresa de tecnología","comentario":"Excelente gestión de proyectos, siempre entregas a tiempo.","calificacion":5}],"certificaciones":["Scrum Master Certified","PMI Agile Certified Practitioner"],"idiomas":["Español","Inglés"]},{"nombre":"Andrés López","edad":45,"carrera":"Ciberseguridad","años_de_experiencia":20,"habilidades":["Auditoría de seguridad","Análisis de vulnerabilidades","Penetration Testing"],"tarifa_por_hora":90,"proyectos_anteriores":["Auditoría de seguridad en bancos","Pruebas de penetración en redes corporativas"],"disponibilidad":10,"calificaciones_o_reseñas":[{"cliente":"Banco regional","comentario":"Gran capacidad para identificar y mitigar riesgos de seguridad.","calificacion":5}],"certificaciones":["Certified Information Systems Auditor (CISA)","Certified Ethical Hacker (CEH)"],"idiomas":["Español","Inglés"]},{"nombre":"María Figueroa","edad":33,"carrera":"Producció|n Audiovisual","años_de_experiencia":10,"habilidades":["Edición de video","Producción de documentales","Final Cut Pro"],"tarifa_por_hora":65,"proyectos_anteriores":["Producción de documentales","Edición de videos promocionales"],"disponibilidad":15,"calificaciones_o_reseñas":[{"cliente":"Agencia creativa","comentario":"Profesional y creativa, excelente en la edición de videos.","calificacion":5}],"certificaciones":["Certified Final Cut Pro Expert","Video Production Professional"],"idiomas":["Español","Inglés"]},{"nombre":"Roberto González","edad":38,"carrera":"Ingeniería de Software","años_de_experiencia":16,"habilidades":["C++","Desarrollo de videojuegos","Motor Unreal"],"tarifa_por_hora":85,"proyectos_anteriores":["Desarrollo de videojuegos AAA","Optimización de motores gráficos"],"disponibilidad":12,"calificaciones_o_reseñas":[{"cliente":"Estudio de videojuegos","comentario":"Excelente ingeniero, muy eficiente en el desarrollo de motores gráficos.","calificacion":5}],"certificaciones":["Certified Unreal Engine Developer","C++ Expert Certification"],"idiomas":["Español","Inglés"]},{"nombre":"Ana Gómez","edad":30,"carrera":"Ingeniería en Sistemas","años_de_experiencia":5,"habilidades":["JavaScript","React","Node.js","SQL"],"tarifa_por_hora":25,"proyectos_anteriores":[{"nombre":"Desarrollo de E-commerce","descripcion":"Plataforma de venta en línea para productos electrónicos."},{"nombre":"Aplicación de Gestión de Tareas","descripcion":"App móvil para la gestión de tareas diarias."}],"disponibilidad":"Tiempo completo","calificaciones_o_reseñas":[{"cliente":"Empresa XYZ","calificacion":5,"comentario":"Excelente trabajo y cumplimiento de plazos."},{"cliente":"Cliente ABC","calificacion":4,"comentario":"Buena comunicación, pero puede mejorar en los detalles."}],"certificaciones":["Certified JavaScript Developer","AWS Certified Solutions Architect"],"idiomas":["Español","Inglés"]},{"nombre":"Ana Gómez","edad":30,"carrera":"Ingeniería en Sistemas","años_de_experiencia":5,"habilidades":["JavaScript","React","Node.js","SQL"],"tarifa_por_hora":25,"proyectos_anteriores":[{"nombre":"Desarrollo de E-commerce","descripcion":"Plataforma de venta en línea para productos electrónicos."},{"nombre":"Aplicación de Gestión de Tareas","descripcion":"App móvil para la gestión de tareas diarias."}],"disponibilidad":"Tiempo completo","calificaciones_o_reseñas":[{"cliente":"Empresa XYZ","calificacion":5,"comentario":"Excelente trabajo y cumplimiento de plazos."},{"cliente":"Cliente ABC","calificacion":4,"comentario":"Buena comunicación, pero puede mejorar en los detalles."}],"certificaciones":["Certified JavaScript Developer","AWS Certified Solutions Architect"],"idiomas":["Español","Inglés"]},{"nombre":"Ana Gómez","edad":30,"carrera":"Ingeniería en Sistemas","años_de_experiencia":5,"habilidades":["JavaScript","React","Node.js","SQL"],"tarifa_por_hora":25,"proyectos_anteriores":[{"nombre":"Desarrollo de E-commerce","descripcion":"Plataforma de venta en línea para productos electrónicos."},{"nombre":"Aplicación de Gestión de Tareas","descripcion":"App móvil para la gestión de tareas diarias."}],"disponibilidad":"Tiempo completo","calificaciones_o_reseñas":[{"cliente":"Empresa XYZ","calificacion":5,"comentario":"Excelente trabajo y cumplimiento de plazos."},{"cliente":"Cliente ABC","calificacion":4,"comentario":"Buena comunicación, pero puede mejorar en los detalles."}],"certificaciones":["Certified JavaScript Developer","AWS Certified Solutions Architect"],"idiomas":["Español","Inglés"]},{"nombre":"AnaGómez","edad":30,"carrera":"Ingeniería en Sistemas","años_de_experiencia":5,"habilidades":["JavaScript","React","Node.js","SQL"],"tarifa_por_hora":25,"proyectos_anteriores":[{"nombre":"Desarrollo de E-commerce","descripcion":"Plataforma de venta en línea para productos electrónicos."},{"nombre":"Aplicación de Gestión de Tareas","descripcion":"App móvil para la gestión de tareas diarias."}],"disponibilidad":"Tiempo completo","calificaciones_o_reseñas":[{"cliente":"Empresa XYZ","calificacion":5,"comentario":"Excelente trabajo y cumplimiento de plazos."},{"cliente":"Cliente ABC","calificacion":4,"comentario":"Buena comunicación, pero puede mejorar en los detalles."}],"certificaciones":["Certified JavaScript Developer","AWS Certified Solutions Architect"],"idiomas":["Español","Inglés"]},{"nombre":"Juan Pérez","edad":30,"carrera":"Desarrollo Web","años_de_experiencia":8,"habilidades":["HTML","CSS","JavaScript","React"],"tarifa_por_hora":25,"proyectos_anteriores":["Sitio Web E-commerce","Landing Page para Startup"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Compañía XYZ","comentario":"Excelente trabajo, muy profesional.","calificacion":5},{"cliente":"Tech Solutions","comentario":"Rápido y eficiente.","calificacion":4}],"certificaciones":["Certificación en React","Desarrollo Web Full Stack"],"idiomas":["Español","Inglés"]},{"nombre":"Juan ñonga","edad":30,"carrera":"Desarrollo Web","años_de_experiencia":8,"habilidades":["HTML","CSS","JavaScript","React"],"tarifa_por_hora":25,"proyectos_anteriores":["Sitio Web E-commerce","Landing Page para Startup"],"disponibilidad":20,"calificaciones_o_reseñas":[{"cliente":"Compañía XYZ","comentario":"Excelente trabajo, muy profesional.","calificacion":5},{"cliente":"Tech Solutions","comentario":"Rápido y eficiente.","calificacion":4}],"certificaciones":["Certificación en React","Desarrollo Web Full Stack"],"idiomas":["Español","Inglés"],"id":null}]
+[
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "edad": 30,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 8,
+      "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+      "tarifa_por_hora": 25,
+      "proyectos_anteriores": ["Sitio Web E-commerce", "Landing Page para Startup"],
+      "disponibilidad": 20,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "Compañía XYZ",
+          "comentario": "Excelente trabajo, muy profesional.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "Tech Solutions",
+          "comentario": "Rápido y eficiente.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Gómez",
+      "edad": 28,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 6,
+      "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+      "tarifa_por_hora": 30,
+      "proyectos_anteriores": ["Plataforma de Cursos Online", "Blog de Tecnología"],
+      "disponibilidad": 15,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "EduTech",
+          "comentario": "Trabajo impecable, comunicación excelente.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "WebCorp",
+          "comentario": "Muy profesional.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+      "idiomas": ["Español", "Inglés", "Francés"]
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Martínez",
+      "edad": 32,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 10,
+      "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+      "tarifa_por_hora": 40,
+      "proyectos_anteriores": ["Sistema de Gestión de Tareas", "Aplicación Financiera"],
+      "disponibilidad": 10,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "FinCorp",
+          "comentario": "Muy eficiente y atento a los detalles.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "TaskMaster",
+          "comentario": "Trabajo rápido y preciso.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en Angular", "Desarrollo Web Full Stack"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 4,
+      "nombre": "Laura Sánchez",
+      "edad": 29,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 7,
+      "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+      "tarifa_por_hora": 35,
+      "proyectos_anteriores": ["Dashboard de Analytics", "Aplicación de Gestión de Inventario"],
+      "disponibilidad": 12,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "DataView",
+          "comentario": "Excelente habilidad para resolver problemas.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "InvenTech",
+          "comentario": "Trabajo de calidad.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 5,
+      "nombre": "Roberto Ruiz",
+      "edad": 35,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 12,
+      "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+      "tarifa_por_hora": 45,
+      "proyectos_anteriores": ["Sistema de E-commerce", "Aplicación de Gestión de Ventas"],
+      "disponibilidad": 8,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "SalesMaster",
+          "comentario": "Trabajo excelente, muy profesional.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "E-Shop",
+          "comentario": "Gran capacidad de adaptación.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 6,
+      "nombre": "Sofía Herrera",
+      "edad": 27,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 5,
+      "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js", "Node.js"],
+      "tarifa_por_hora": 32,
+      "proyectos_anteriores": ["Aplicación de Gestión de Eventos", "Plataforma de Redes Sociales"],
+      "disponibilidad": 18,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "EventPro",
+          "comentario": "Trabajo impecable y eficiente.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "SocialNet",
+          "comentario": "Muy profesional y responsable.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en Vue.js", "Desarrollo Backend con Node.js"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 7,
+      "nombre": "Luis Torres",
+      "edad": 33,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 9,
+      "habilidades": ["HTML", "CSS", "JavaScript", "React", "GraphQL"],
+      "tarifa_por_hora": 38,
+      "proyectos_anteriores": ["Plataforma de Gestión de Contenidos", "Aplicación de Blogs"],
+      "disponibilidad": 14,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "BlogPro",
+          "comentario": "Gran trabajo y atención a los detalles.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "ContentMaster",
+          "comentario": "Trabajo rápido y eficiente.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en React", "Certificación en GraphQL"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 8,
+      "nombre": "María Rodríguez",
+      "edad": 31,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 10,
+      "habilidades": ["HTML", "CSS", "JavaScript", "Angular", "Node.js"],
+      "tarifa_por_hora": 42,
+      "proyectos_anteriores": ["Plataforma de Ventas Online", "Aplicación de Administración de Proyectos"],
+      "disponibilidad": 10,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "ProAdmin",
+          "comentario": "Trabajo de excelente calidad.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "OnlineStore",
+          "comentario": "Profesionalismo al máximo.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en Angular", "Desarrollo Backend con Node.js"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 9,
+      "nombre": "Diego Martínez",
+      "edad": 29,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 7,
+      "habilidades": ["HTML", "CSS", "JavaScript", "React", "TypeScript"],
+      "tarifa_por_hora": 36,
+      "proyectos_anteriores": ["Sitio Web de Noticias", "Aplicación de Administración de Tareas"],
+      "disponibilidad": 16,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "NewsSite",
+          "comentario": "Excelente atención al cliente.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "TaskPro",
+          "comentario": "Muy eficiente.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en React", "Desarrollo con TypeScript"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 10,
+      "nombre": "Elena Fernández",
+      "edad": 34,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 11,
+      "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js", "GraphQL"],
+      "tarifa_por_hora": 40,
+      "proyectos_anteriores": ["Plataforma de Gestión de Reservas", "Aplicación de E-learning"],
+      "disponibilidad": 12,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "ReservaPro",
+          "comentario": "Trabajo excelente y atención a los detalles.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "LearnNet",
+          "comentario": "Muy eficiente y profesional.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en Vue.js", "Certificación en GraphQL"],
+      "idiomas": ["Español", "Inglés"]
+    },
+    {
+      "id": 11,
+      "nombre": "Jorge López",
+      "edad": 30,
+      "carrera": "Desarrollo Web",
+      "años_de_experiencia": 9,
+      "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+      "tarifa_por_hora": 30,
+      "proyectos_anteriores": ["Sitio Web E-commerce", "Landing Page para Startup"],
+      "disponibilidad": 20,
+      "calificaciones_o_reseñas": [
+        {
+          "cliente": "Compañía XYZ",
+          "comentario": "Excelente trabajo, muy profesional.",
+          "calificacion": 5
+        },
+        {
+          "cliente": "Tech Solutions",
+          "comentario": "Rápido y eficiente.",
+          "calificacion": 4
+        }
+      ],
+      "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+      "idiomas": ["Español", "Inglés"]
+    },
+        {
+          "id": 12,
+          "nombre": "Gabriela Ramírez",
+          "edad": 28,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 6,
+          "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+          "tarifa_por_hora": 28,
+          "proyectos_anteriores": ["Aplicación de Administración de Recursos Humanos", "Dashboard de Reportes"],
+          "disponibilidad": 18,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "HR Solutions",
+              "comentario": "Muy profesional y puntual.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "ReportMaster",
+              "comentario": "Trabajo rápido y eficiente.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en Angular", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 13,
+          "nombre": "Alejandro Castro",
+          "edad": 31,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 9,
+          "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+          "tarifa_por_hora": 35,
+          "proyectos_anteriores": ["Aplicación de Gestión de Inventario", "Sitio Web para Conferencias"],
+          "disponibilidad": 15,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "InvenPro",
+              "comentario": "Excelente trabajo y muy atento.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "ConferenciasTech",
+              "comentario": "Trabajo impecable.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 14,
+          "nombre": "Marta González",
+          "edad": 33,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 10,
+          "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+          "tarifa_por_hora": 40,
+          "proyectos_anteriores": ["Aplicación de E-commerce", "Plataforma de Gestión de Reservas"],
+          "disponibilidad": 10,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "E-Shop",
+              "comentario": "Excelente comunicación y entrega rápida.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "ReservaNet",
+              "comentario": "Trabajo muy profesional.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 15,
+          "nombre": "Pedro Ortega",
+          "edad": 35,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 12,
+          "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js", "Node.js"],
+          "tarifa_por_hora": 45,
+          "proyectos_anteriores": ["Aplicación de Gestión de Proyectos", "Dashboard de Ventas"],
+          "disponibilidad": 8,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "ProjectMaster",
+              "comentario": "Trabajo de alta calidad.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "SalesCorp",
+              "comentario": "Gran capacidad para cumplir plazos.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en Vue.js", "Desarrollo Backend con Node.js"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 16,
+          "nombre": "Camila López",
+          "edad": 26,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 4,
+          "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+          "tarifa_por_hora": 27,
+          "proyectos_anteriores": ["Blog Personal", "Sitio Web de Portafolio"],
+          "disponibilidad": 22,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "MyBlog",
+              "comentario": "Muy buena atención a los detalles.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "PortfolioDesign",
+              "comentario": "Entrega puntual y excelente trabajo.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 17,
+          "nombre": "Francisco Méndez",
+          "edad": 34,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 11,
+          "habilidades": ["HTML", "CSS", "JavaScript", "Angular", "Node.js"],
+          "tarifa_por_hora": 42,
+          "proyectos_anteriores": ["Aplicación de Gestión de Tareas", "Sistema de Inventarios"],
+          "disponibilidad": 10,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "TaskMaster",
+              "comentario": "Trabajo de alta calidad.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "InventoryPro",
+              "comentario": "Entrega a tiempo y excelente código.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en Angular", "Desarrollo Backend con Node.js"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 18,
+          "nombre": "Lucía Morales",
+          "edad": 27,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 5,
+          "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+          "tarifa_por_hora": 32,
+          "proyectos_anteriores": ["Aplicación de Reservas", "Plataforma de E-learning"],
+          "disponibilidad": 18,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "LearnPro",
+              "comentario": "Trabajo impecable.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "ReservaCorp",
+              "comentario": "Gran atención a los detalles.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 19,
+          "nombre": "Daniel Ruiz",
+          "edad": 29,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 8,
+          "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+          "tarifa_por_hora": 30,
+          "proyectos_anteriores": ["Aplicación de Noticias", "Dashboard de Finanzas"],
+          "disponibilidad": 14,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "NewsPro",
+              "comentario": "Excelente trabajo.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "FinanceCorp",
+              "comentario": "Muy eficiente.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 20,
+          "nombre": "Patricia Sánchez",
+          "edad": 31,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 9,
+          "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js", "Node.js"],
+          "tarifa_por_hora": 38,
+          "proyectos_anteriores": ["Sitio Web de Reservas", "Aplicación de Gestión de Eventos"],
+          "disponibilidad": 16,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "EventMaster",
+              "comentario": "Trabajo excelente y rápido.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "ReservaTech",
+              "comentario": "Gran profesionalismo.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en Vue.js", "Desarrollo Backend con Node.js"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        {
+          "id": 21,
+          "nombre": "Miguel Herrera",
+          "edad": 30,
+          "carrera": "Desarrollo Web",
+          "años_de_experiencia": 8,
+          "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+          "tarifa_por_hora": 28,
+          "proyectos_anteriores": ["E-commerce para Pequeños Negocios", "Aplicación de Gestión de Proyectos"],
+          "disponibilidad": 18,
+          "calificaciones_o_reseñas": [
+            {
+              "cliente": "SmallBiz",
+              "comentario": "Muy eficiente y rápido.",
+              "calificacion": 5
+            },
+            {
+              "cliente": "ProjectPro",
+              "comentario": "Trabajo de calidad.",
+              "calificacion": 4
+            }
+          ],
+          "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+          "idiomas": ["Español", "Inglés"]
+        },
+        
+         {
+              "id": 22,
+              "nombre": "Sofía Moreno",
+              "edad": 32,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 10,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Angular", "Node.js"],
+              "tarifa_por_hora": 40,
+              "proyectos_anteriores": ["Aplicación de Gestión de Inventarios", "Dashboard de Marketing"],
+              "disponibilidad": 12,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "InventPro",
+                  "comentario": "Muy buena comunicación y resultados excelentes.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "MarketCorp",
+                  "comentario": "Trabajo de calidad en tiempo récord.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Angular", "Desarrollo Backend con Node.js"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 23,
+              "nombre": "Roberto Fernández",
+              "edad": 29,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 7,
+              "habilidades": ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+              "tarifa_por_hora": 35,
+              "proyectos_anteriores": ["Sitio Web de Portafolio", "Aplicación de Noticias"],
+              "disponibilidad": 14,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "PortfolioMaster",
+                  "comentario": "Entrega muy profesional y con gran estilo.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "NewsExpress",
+                  "comentario": "Trabajo rápido y eficaz.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 24,
+              "nombre": "Mariana Castro",
+              "edad": 28,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 6,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+              "tarifa_por_hora": 32,
+              "proyectos_anteriores": ["Aplicación de Tareas", "Sitio Web de E-learning"],
+              "disponibilidad": 20,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "TaskPro",
+                  "comentario": "Gran capacidad para resolver problemas.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "EduCorp",
+                  "comentario": "Trabajo eficiente y a tiempo.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 25,
+              "nombre": "Jorge Ortiz",
+              "edad": 30,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 9,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+              "tarifa_por_hora": 38,
+              "proyectos_anteriores": ["Dashboard Financiero", "Aplicación de Reservas"],
+              "disponibilidad": 16,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "FinancePro",
+                  "comentario": "Muy profesional y atento a los detalles.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "ReservaOnline",
+                  "comentario": "Excelente comunicación y resultados.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Angular", "Desarrollo Backend con Node.js"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 26,
+              "nombre": "Daniela Gómez",
+              "edad": 31,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 8,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+              "tarifa_por_hora": 36,
+              "proyectos_anteriores": ["Plataforma de E-commerce", "Aplicación de Gestión de Proyectos"],
+              "disponibilidad": 12,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "ShopMaster",
+                  "comentario": "Excelente trabajo y comunicación clara.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "ProjectManager",
+                  "comentario": "Entrega rápida y con excelente calidad.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 27,
+              "nombre": "Carlos López",
+              "edad": 33,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 11,
+              "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+              "tarifa_por_hora": 42,
+              "proyectos_anteriores": ["Aplicación de Gestión de Usuarios", "Dashboard de Control de Ventas"],
+              "disponibilidad": 10,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "UserManager",
+                  "comentario": "Gran atención a los detalles y calidad.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "SalesDash",
+                  "comentario": "Entrega puntual y resultados excepcionales.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 28,
+              "nombre": "Lucía Pérez",
+              "edad": 26,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 5,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+              "tarifa_por_hora": 28,
+              "proyectos_anteriores": ["Blog Personal", "Aplicación de Reservas"],
+              "disponibilidad": 20,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "BlogNet",
+                  "comentario": "Muy creativa y eficiente.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "ReservaMaster",
+                  "comentario": "Entrega rápida y resultados de calidad.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 29,
+              "nombre": "Fernando Ramírez",
+              "edad": 30,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 9,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Svelte", "Node.js"],
+              "tarifa_por_hora": 40,
+              "proyectos_anteriores": ["Plataforma de E-learning", "Dashboard de Reportes"],
+              "disponibilidad": 12,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "EduPro",
+                  "comentario": "Trabajo excelente y a tiempo.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "ReportsMaster",
+                  "comentario": "Gran capacidad para resolver problemas.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Svelte", "Desarrollo Backend con Node.js"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 30,
+              "nombre": "Laura Mendoza",
+              "edad": 29,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 7,
+              "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+              "tarifa_por_hora": 35,
+              "proyectos_anteriores": ["Sitio Web de Portafolio", "Aplicación de Gestión de Proyectos"],
+              "disponibilidad": 18,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "PortfolioTech",
+                  "comentario": "Muy profesional y con gran estilo.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "ProjectPro",
+                  "comentario": "Entrega rápida y de alta calidad.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            {
+              "id": 31,
+              "nombre": "Adriana Morales",
+              "edad": 31,
+              "carrera": "Desarrollo Web",
+              "años_de_experiencia": 10,
+              "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+              "tarifa_por_hora": 38,
+              "proyectos_anteriores": ["Dashboard Financiero", "Aplicación de Gestión de Inventarios"],
+              "disponibilidad": 14,
+              "calificaciones_o_reseñas": [
+                {
+                  "cliente": "FinancePro",
+                  "comentario": "Entrega profesional y detallada.",
+                  "calificacion": 5
+                },
+                {
+                  "cliente": "InventManager",
+                  "comentario": "Excelente calidad de trabajo y comunicación.",
+                  "calificacion": 4
+                }
+              ],
+              "certificaciones": ["Certificación en Angular", "Desarrollo Backend con Node.js"],
+              "idiomas": ["Español", "Inglés"]
+            },
+            
+                {
+                  "id": 32,
+                  "nombre": "Manuel Torres",
+                  "edad": 28,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 6,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+                  "tarifa_por_hora": 30,
+                  "proyectos_anteriores": ["Sitio Web de Agencia", "Aplicación de Gestión de Eventos"],
+                  "disponibilidad": 16,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "AgenciaWeb",
+                      "comentario": "Trabajo impecable, muy recomendado.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "EventPro",
+                      "comentario": "Resultados rápidos y de calidad.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 33,
+                  "nombre": "Patricia Méndez",
+                  "edad": 34,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 12,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+                  "tarifa_por_hora": 45,
+                  "proyectos_anteriores": ["Plataforma de Reservas", "Dashboard de Marketing"],
+                  "disponibilidad": 10,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "ReservaExpress",
+                      "comentario": "Excelente trabajo y gran comunicación.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "MarketingDash",
+                      "comentario": "Muy eficiente y profesional.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 34,
+                  "nombre": "Luis Hernández",
+                  "edad": 30,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 9,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+                  "tarifa_por_hora": 40,
+                  "proyectos_anteriores": ["Aplicación de Gestión de Inventarios", "Sitio Web de Noticias"],
+                  "disponibilidad": 14,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "InventoryPro",
+                      "comentario": "Gran trabajo, entrega a tiempo.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "NewsMaster",
+                      "comentario": "Calidad excelente y resultados rápidos.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Angular", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 35,
+                  "nombre": "Gabriela Cruz",
+                  "edad": 32,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 10,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+                  "tarifa_por_hora": 38,
+                  "proyectos_anteriores": ["Plataforma de E-learning", "Aplicación de Gestión de Usuarios"],
+                  "disponibilidad": 12,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "EduTech",
+                      "comentario": "Trabajo impecable y excelente comunicación.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "UserManager",
+                      "comentario": "Rápido, eficiente y de gran calidad.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 36,
+                  "nombre": "Diego Flores",
+                  "edad": 27,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 5,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js", "Node.js"],
+                  "tarifa_por_hora": 34,
+                  "proyectos_anteriores": ["Sitio Web de Portafolio", "Dashboard de Ventas"],
+                  "disponibilidad": 18,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "PortfolioMaster",
+                      "comentario": "Gran atención al detalle y creatividad.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "SalesManager",
+                      "comentario": "Rápido y con calidad excepcional.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Vue.js", "Desarrollo Backend con Node.js"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 37,
+                  "nombre": "Verónica Delgado",
+                  "edad": 29,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 7,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+                  "tarifa_por_hora": 32,
+                  "proyectos_anteriores": ["Aplicación de Gestión de Tareas", "Plataforma de Reservas"],
+                  "disponibilidad": 16,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "TaskManager",
+                      "comentario": "Muy eficiente y profesional.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "ReservaPro",
+                      "comentario": "Entrega rápida y resultados de calidad.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 38,
+                  "nombre": "Javier Guzmán",
+                  "edad": 34,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 12,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+                  "tarifa_por_hora": 42,
+                  "proyectos_anteriores": ["Aplicación de Gestión de Inventarios", "Sitio Web de Comercio Electrónico"],
+                  "disponibilidad": 10,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "InventoryManager",
+                      "comentario": "Muy detallista y profesional.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "EcommercePro",
+                      "comentario": "Gran calidad de trabajo y a tiempo.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 39,
+                  "nombre": "Silvia Ramos",
+                  "edad": 28,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 6,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+                  "tarifa_por_hora": 34,
+                  "proyectos_anteriores": ["Blog Personal", "Aplicación de Gestión de Proyectos"],
+                  "disponibilidad": 18,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "BlogMaster",
+                      "comentario": "Muy creativa y profesional.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "ProjectManager",
+                      "comentario": "Entrega puntual y con gran calidad.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 40,
+                  "nombre": "Carmen López",
+                  "edad": 31,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 9,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+                  "tarifa_por_hora": 40,
+                  "proyectos_anteriores": ["Plataforma de E-commerce", "Dashboard de Ventas"],
+                  "disponibilidad": 12,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "EcommerceMaster",
+                      "comentario": "Trabajo de calidad y excelente comunicación.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "SalesPro",
+                      "comentario": "Muy rápido y profesional.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 41,
+                  "nombre": "Andrés Ruiz",
+                  "edad": 33,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 11,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+                  "tarifa_por_hora": 42,
+                  "proyectos_anteriores": ["Aplicación de Gestión de Usuarios", "Sitio Web de Portafolio"],
+                  "disponibilidad": 14,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "UserManager",
+                      "comentario": "Muy eficiente y detallista.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "PortfolioMaster",
+                      "comentario": "Calidad excepcional y resultados rápidos.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Angular", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                {
+                  "id": 42,
+                  "nombre": "Daniela García",
+                  "edad": 26,
+                  "carrera": "Desarrollo Web",
+                  "años_de_experiencia": 4,
+                  "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+                  "tarifa_por_hora": 30,
+                  "proyectos_anteriores": ["Aplicación de Gestión de Inventarios", "Sitio Web de Noticias"],
+                  "disponibilidad": 16,
+                  "calificaciones_o_reseñas": [
+                    {
+                      "cliente": "InventoryMaster",
+                      "comentario": "Entrega rápida y con gran calidad.",
+                      "calificacion": 5
+                    },
+                    {
+                      "cliente": "NewsMaster",
+                      "comentario": "Muy profesional y eficiente.",
+                      "calificacion": 4
+                    }
+                  ],
+                  "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+                  "idiomas": ["Español", "Inglés"]
+                },
+                
+                    {
+                      "id": 43,
+                      "nombre": "Sofía Morales",
+                      "edad": 29,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 7,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "React"],
+                      "tarifa_por_hora": 38,
+                      "proyectos_anteriores": ["Sitio Web Corporativo", "Aplicación de Gestión de Proyectos"],
+                      "disponibilidad": 14,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "CorpWeb",
+                          "comentario": "Muy profesional y entregas puntuales.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "ProjectMaster",
+                          "comentario": "Calidad excelente en los resultados.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en React", "Desarrollo Web Full Stack"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 44,
+                      "nombre": "Carlos Romero",
+                      "edad": 35,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 15,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+                      "tarifa_por_hora": 45,
+                      "proyectos_anteriores": ["Aplicación de E-learning", "Plataforma de Ventas"],
+                      "disponibilidad": 12,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "EduPlatform",
+                          "comentario": "Trabajo excepcional, muy detallista.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "SalesMaster",
+                          "comentario": "Gran comunicación y entrega a tiempo.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en Angular", "Desarrollo Backend con Node.js"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 45,
+                      "nombre": "María Jiménez",
+                      "edad": 28,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 6,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+                      "tarifa_por_hora": 36,
+                      "proyectos_anteriores": ["Sitio Web Personal", "Aplicación de Gestión de Clientes"],
+                      "disponibilidad": 16,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "PersonalWeb",
+                          "comentario": "Gran creatividad y atención al detalle.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "ClientManager",
+                          "comentario": "Resultados rápidos y de alta calidad.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 46,
+                      "nombre": "Roberto Sánchez",
+                      "edad": 30,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 9,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+                      "tarifa_por_hora": 40,
+                      "proyectos_anteriores": ["Aplicación de E-commerce", "Dashboard de Análisis de Datos"],
+                      "disponibilidad": 14,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "EcommercePlus",
+                          "comentario": "Excelente trabajo y gran comunicación.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "DataDash",
+                          "comentario": "Trabajo de calidad en tiempo récord.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 47,
+                      "nombre": "Ana Ramírez",
+                      "edad": 27,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 5,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "Svelte"],
+                      "tarifa_por_hora": 32,
+                      "proyectos_anteriores": ["Blog Personal", "Aplicación de Gestión de Proyectos"],
+                      "disponibilidad": 18,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "BlogMaster",
+                          "comentario": "Muy eficiente y detallista.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "ProjectMaster",
+                          "comentario": "Gran creatividad y calidad en los resultados.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en Svelte", "Desarrollo Web Full Stack"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 48,
+                      "nombre": "Diego Fernández",
+                      "edad": 31,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 10,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+                      "tarifa_por_hora": 42,
+                      "proyectos_anteriores": ["Aplicación de Gestión de Inventarios", "Sitio Web de Comercio Electrónico"],
+                      "disponibilidad": 12,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "InventoryManager",
+                          "comentario": "Trabajo impecable y de gran calidad.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "EcommerceMaster",
+                          "comentario": "Entrega a tiempo y resultados increíbles.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en React", "Desarrollo Backend con Node.js"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 49,
+                      "nombre": "Paola Torres",
+                      "edad": 34,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 11,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "Angular"],
+                      "tarifa_por_hora": 45,
+                      "proyectos_anteriores": ["Plataforma de Reservas", "Dashboard de Análisis de Marketing"],
+                      "disponibilidad": 10,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "ReservaPro",
+                          "comentario": "Trabajo impecable, entrega puntual.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "MarketingDash",
+                          "comentario": "Gran atención al detalle y resultados rápidos.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en Angular", "Desarrollo Web Full Stack"],
+                      "idiomas": ["Español", "Inglés"]
+                    },
+                    {
+                      "id": 50,
+                      "nombre": "Laura Gutiérrez",
+                      "edad": 26,
+                      "carrera": "Desarrollo Web",
+                      "años_de_experiencia": 4,
+                      "habilidades": ["HTML", "CSS", "JavaScript", "Vue.js"],
+                      "tarifa_por_hora": 28,
+                      "proyectos_anteriores": ["Sitio Web Personal", "Plataforma de Gestión de Clientes"],
+                      "disponibilidad": 16,
+                      "calificaciones_o_reseñas": [
+                        {
+                          "cliente": "ClientManager",
+                          "comentario": "Trabajo rápido y muy profesional.",
+                          "calificacion": 5
+                        },
+                        {
+                          "cliente": "PersonalSite",
+                          "comentario": "Excelente atención al detalle y calidad.",
+                          "calificacion": 4
+                        }
+                      ],
+                      "certificaciones": ["Certificación en Vue.js", "Desarrollo Web Full Stack"],
+                      "idiomas": ["Español", "Inglés"]
+                    }
+                  ]
+                  
+              
+          
+      
+  

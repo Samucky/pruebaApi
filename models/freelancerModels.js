@@ -1,5 +1,6 @@
 class Freelancer {
-    constructor(nombre, edad, carrera, años_de_experiencia, habilidades, tarifa_por_hora, proyectos_anteriores, disponibilidad, ubicacion, calificaciones_o_reseñas, certificaciones, idiomas) {
+    constructor(id, nombre, edad, carrera, años_de_experiencia, habilidades, tarifa_por_hora, proyectos_anteriores, disponibilidad, ubicacion, calificaciones_o_reseñas, certificaciones, idiomas) {
+        this.id = id;
         this.nombre = nombre;
         this.edad = edad;
         this.carrera = carrera;
