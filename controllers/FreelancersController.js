@@ -2,10 +2,14 @@ import express from "express";
 import { check, validationResult } from 'express-validator';
 import freelancerService from "../services/FreelancerServices.js";
 import Freelancer from "../models/freelancerModels.js";
+import { verifyToken } from '../middlware/authMiddleware.js';
 
 const router = express.Router();
 
-router.get('/freelancers', async (req, res) => {
+// Todas las rutas protegidas con verifyToken
+
+// Obtener todos los freelancers
+router.get('/freelancers', verifyToken, async (req, res) => {
     try {
         const freelancers = await freelancerService.getAllFreelancers();
         res.json(freelancers);
@@ -14,7 +18,9 @@ router.get('/freelancers', async (req, res) => {
     }
 });
 
+// Crear un nuevo freelancer
 router.post('/freelancers', 
+    verifyToken, 
     [
         check('nombre').not().isEmpty().withMessage('El nombre es requerido'),
         check('carrera').not().isEmpty().withMessage('La carrera es requerida')
@@ -28,22 +34,23 @@ router.post('/freelancers',
         try {
             const { nombre, edad, carrera, años_de_experiencia, habilidades, tarifa_por_hora, proyectos_anteriores, disponibilidad, ubicacion, calificaciones_o_reseñas, certificaciones, idiomas } = req.body;
             
-            // Crea un nuevo freelancer sin el ID
+            // Crea un nuevo freelancer
             const newFreelancer = new Freelancer(
                 nombre, edad, carrera, años_de_experiencia, habilidades, tarifa_por_hora, proyectos_anteriores, disponibilidad, ubicacion, calificaciones_o_reseñas, certificaciones, idiomas
             );
 
-            // Llama al servicio para agregar el freelancer, que generará el ID
+            // Llama al servicio para agregar el freelancer
             const addedFreelancer = await freelancerService.addFreelancer(newFreelancer);
 
-            res.status(201).json(addedFreelancer); // Responde con el freelancer agregado, que incluye el ID
+            res.status(201).json(addedFreelancer);
         } catch (error) {
             res.status(500).json({ error: error.message });
         }
     }
 );
 
-router.put("/freelancers/:id", async (req, res) => {
+// Actualizar un freelancer por ID
+router.put("/freelancers/:id", verifyToken, async (req, res) => {
     try {
         const updatedFreelancer = await freelancerService.updateFreelancer(req.params.id, req.body);
         res.json(updatedFreelancer);
@@ -52,7 +59,8 @@ router.put("/freelancers/:id", async (req, res) => {
     }
 });
 
-router.delete('/freelancers/nombre/:nombre', async (req, res) => {
+// Eliminar un freelancer por nombre
+router.delete('/freelancers/nombre/:nombre', verifyToken, async (req, res) => {
     try {
         const result = await freelancerService.deleteFreelancer(req.params.nombre);
         res.json(result);
@@ -61,19 +69,19 @@ router.delete('/freelancers/nombre/:nombre', async (req, res) => {
     }
 });
 
-router.get('/freelancers/carrera/:carrera', async (req, res) => {
+// Buscar freelancers por carrera
+router.get('/freelancers/carrera/:carrera', verifyToken, async (req, res) => {
     try {
-      const freelancers = await freelancerService.findFreelancersByCareer(req.params.carrera);
+        const freelancers = await freelancerService.findFreelancersByCareer(req.params.carrera);
       
-      if (freelancers.length === 0) {
-        return res.status(404).json({ message: 'No se encontraron freelancers con esa carrera' });
-      }
-  
-      res.json(freelancers);
+        if (freelancers.length === 0) {
+            return res.status(404).json({ message: 'No se encontraron freelancers con esa carrera' });
+        }
+
+        res.json(freelancers);
     } catch (err) {
-      res.status(500).json({ error: err.message });
+        res.status(500).json({ error: err.message });
     }
-  });
-  
+});
 
 export default router;
